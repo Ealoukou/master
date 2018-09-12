@@ -34,6 +34,6 @@ important ones for our purpose to analyze, agriculture and road.
 Directory report contains a short report for our work on the project,
 while presentation directory contains the file of our final presentation.
 
-Authors: Eirini Aloukou (Statistician) – Orianna Lymperi (Environmental Engineer)
+**Authors: Eirini Aloukou (Statistician) – Orianna Lymperi (Environmental Engineer)**
 
-This project was conducted as part of the "Big Data Content Analytics" class of the M.Sc. in Business Analytics, Athens University of Economics & Business.
+*This project was conducted as part of the "Big Data Content Analytics" class of the M.Sc. in Business Analytics, Athens University of Economics & Business.*
