@@ -24,8 +24,10 @@ In order for the code to run, the following libraries are needed, which can be i
 
 Requirements:
 Python 3.0, Keras 2.2.0, Tensorflow 1.5
+
 How to run:
 Please execute the script cnn.py above using the training jpeg dataset from kaggle and the corresponding csv with the labels.
+
 Notes:
 We reduced the number of different labels, 17 in total, to the 2 of the most frequent and
 important ones for our purpose to analyze, agriculture and road.
