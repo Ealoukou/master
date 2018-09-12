@@ -13,8 +13,7 @@ Space and a concise report.
 
 For this purpose, we will use deep learning and neural network techniques through Tensorflow.
 
-The dataset can be downloaded from here: https://www.kaggle.com/c/planet-understanding-
-the-amazon-from-space/data
+The dataset can be downloaded from here: https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data
 
 In order for the code to run, the following libraries are needed, which can be installed via pip:
 - numpy
