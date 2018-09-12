@@ -21,7 +21,7 @@ In order for the code to run, the following libraries are needed, which can be i
 - tensorflow
 - keras
 
-## Requirements:
+#Requirements:
 Python 3.0, Keras 2.2.0, Tensorflow 1.5
 
 # How to run:
